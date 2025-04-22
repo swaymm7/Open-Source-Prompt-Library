@@ -18,7 +18,7 @@ As I explore the capabilities of different AI tools, I often find myself craftin
 3.  **Adapt:** Paste the prompt into your chosen AI tool. **Remember to replace any placeholders** (like `[your topic]`, `[specific detail]`, `[desired tone]`, etc.) with your specific requirements.
 4.  **Experiment:** AI responses can vary. Feel free to tweak the prompt further based on the results you get.
 
-## How I engineer prompts
+## How I design these templates & prompts
 
 Basically, I use AI tools for prompt design combined with my personal Prompt Rulebook and all the aquired metaknowledge throughout my journey of study and engineering.
 
