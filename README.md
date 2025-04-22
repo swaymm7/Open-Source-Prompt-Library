@@ -37,9 +37,9 @@ This repository is organized into topical folders containing specialized prompts
 3.  **Adapt:** Paste the prompt into your chosen AI tool. **Remember to replace any placeholders** (like `[your topic]`, `[specific detail]`, `[desired tone]`, etc.) with your specific requirements.
 4.  **Experiment:** AI responses can vary. Feel free to tweak the prompt further based on the results you get.
 
-## How I design these templates & prompts
+## How I designed these
 
-Basically, I use AI tools for prompt design combined with my personal Prompt Rulebook and all the aquired metaknowledge throughout my journey of study and engineering.
+I use AI tools for prompt design combined with my personal [Prompt Rulebook](https://promptquick.ai) and all the aquired metaknowledge throughout my journey of study and engineering.
 
 ## Contributing
 
