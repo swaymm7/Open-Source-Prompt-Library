@@ -4,7 +4,7 @@ Welcome to my personal collection of AI prompt templates and useful prompts! Thi
 
 ## About This Repository
 
-As I explore the capabilities of different AI tools, I often find myself crafting specific prompts to get desired outputs. This repository is my way of:
+As I use different AI tools I often find myself designing specific prompts to get desired outputs. This repository is my way of:
 
 *   **Organizing:** Keeping track of prompts that work well.
 *   **Reusing:** Quickly finding and adapting prompts for new tasks.
