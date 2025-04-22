@@ -27,6 +27,7 @@ Basically, I use AI tools for prompt design combined with my personal Prompt Rul
 While this is primarily my personal collection, if you have suggestions or improvements, feel free to DM me:
 
 https://www.reddit.com/user/Puzzled-Ad-6854
+
 https://x.com/tech_n0mad
 
 ## License
