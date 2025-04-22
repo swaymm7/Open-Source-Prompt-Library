@@ -1,6 +1,6 @@
 # Nomad's AI Prompt Library 🧠
 
-Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models like ChatGPT, Claude, Midjourney, Stable Diffusion, DALL-E, and others.
+Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
 ## About This Repository
 
