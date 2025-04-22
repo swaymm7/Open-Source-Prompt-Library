@@ -2,6 +2,8 @@
 
 Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
+**README.md files** ⚠️ Consider the readme files in each folder as extremely important, and therefore, necessary to understand how to use the corresponding templates effectively without unexpected outcomes or hurdles. Do not say I didnt warn you. ⚠️  
+
 ## About This Repository
 
 As I use different AI tools I often find myself designing specific prompts to get desired outputs. This repository is my way of:
@@ -10,6 +12,15 @@ As I use different AI tools I often find myself designing specific prompts to ge
 *   **Reusing:** Quickly finding and adapting prompts for new tasks.
 *   **Sharing:** Making useful prompts available (primarily for myself, but maybe helpful to others!).
 *   **Learning:** Refining prompts over time and seeing patterns in what works.
+
+## Repository Navigation
+
+This repository is organized into topical folders containing specialized prompts:
+
+* **Templates/PRD/**: Templates for creating comprehensive Product Requirements Documents through guided questioning.
+* **Templates/MVP/**: Templates for developing structured Minimum Viable Product plans that align with product vision.
+* **Templates/Ultra-Lean-MVP/**: Streamlined templates focused on rapidly defining core MVP build specifications.
+* **Templates/Testing/**: Templates for creating thorough test plans for software quality assurance.
 
 ## How to Use
 
@@ -34,6 +45,6 @@ https://x.com/tech_n0mad
 
 You are generally free to use, adapt, and share these prompts. See the `LICENSE` file for more details. 
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 AI models and their outputs can be unpredictable. These prompts are starting points and may require significant modification to achieve your desired results. Always review and verify AI-generated content, especially for accuracy, bias, or appropriateness.
