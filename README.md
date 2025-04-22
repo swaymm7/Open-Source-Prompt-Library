@@ -6,9 +6,12 @@ Welcome to my personal collection of AI prompt templates and useful prompts! Thi
 
 They are necessary to understand how to use the templates effectively without unexpected outcomes or hurdles. They tend to result in lengthy conversations with models so pick a model that fits the use case.
 
-https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md
+[Readme 1]https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md
+
 https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/PRD/README.md
+
 https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Testing/README.md
+
 https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Ultra-Lean-MVP/README.md
 
 Can't say I didnt warn you.
