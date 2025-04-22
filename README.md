@@ -4,13 +4,13 @@ Welcome to my personal collection of AI prompt templates and useful prompts! Thi
 
 ⚠️ **Readme files below are extremely important, do not ignore them.** ⚠️ 
 
-[MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md)
+[MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/MVP/README.md)
 
-[PRD](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/PRD/README.md)
+[PRD](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/PRD/README.md)
 
-[Testing](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Testing/README.md)
+[Testing](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Testing/README.md)
 
-[Ultra-lean MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Ultra-Lean-MVP/README.md)
+[Ultra-lean MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Ultra-Lean-MVP/README.md)
 
 ## About This Repository
 
@@ -25,10 +25,10 @@ As I use different AI tools I often find myself designing specific prompts to ge
 
 This repository is organized into topical folders containing specialized prompts:
 
-* **Templates/PRD/**: Templates for creating comprehensive Product Requirements Documents through guided questioning.
-* **Templates/MVP/**: Templates for developing structured Minimum Viable Product plans that align with product vision.
-* **Templates/Ultra-Lean-MVP/**: Streamlined templates focused on rapidly defining core MVP build specifications.
-* **Templates/Testing/**: Templates for creating thorough test plans for software quality assurance.
+* **PRD**: Templates for creating comprehensive Product Requirements Documents through guided questioning.
+* **MVP**: Templates for developing structured Minimum Viable Product plans that align with product vision.
+* **Ultra-Lean-MVP**: Template focused on rapidly defining core MVP build specifications.
+* **Testing**: Templates for creating thorough test plans for software quality assurance.
 
 ## How to Use
 
