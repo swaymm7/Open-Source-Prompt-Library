@@ -2,9 +2,7 @@
 
 Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
-⚠️ **Consider the readme files in each folder as extremely important** ⚠️ 
-
-These are necessary to understand how to use the templates effectively without unexpected outcomes or hurdles.
+⚠️ **Readme files below are extremely important, do not ignore them.** ⚠️ 
 
 [MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md)
 
