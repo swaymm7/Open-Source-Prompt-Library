@@ -2,19 +2,17 @@
 
 Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
-⚠️ Consider the readme files in each folder as extremely important ⚠️ 
+⚠️ **Consider the readme files in each folder as extremely important** ⚠️ 
 
-They are necessary to understand how to use the templates effectively without unexpected outcomes or hurdles. They tend to result in lengthy conversations with models so pick a model that fits the use case.
+These are necessary to understand how to use the templates effectively without unexpected outcomes or hurdles.
 
-[Readme 1]https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md
+[MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/MVP/README.md)
 
-https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/PRD/README.md
+[PRD](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/PRD/README.md)
 
-https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Testing/README.md
+[Testing](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Testing/README.md)
 
-https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Ultra-Lean-MVP/README.md
-
-Can't say I didnt warn you.
+[Ultra-lean MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Templates/Ultra-Lean-MVP/README.md)
 
 ## About This Repository
 
