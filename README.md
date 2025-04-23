@@ -1,4 +1,4 @@
-# Nomad's AI Prompt Library 🧠
+# Nomad's AI Prompt Library 🧠 (PromptQuick.ai)
 
 Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
