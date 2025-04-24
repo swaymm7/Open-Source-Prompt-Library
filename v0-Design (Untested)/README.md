@@ -43,7 +43,7 @@ Use this when you don't have an existing frontend codebase to overhaul.
 
 Use this when you want to apply a new visual style to an existing frontend codebase.
 
-1.  **Prepare Codebase:** Run the provided PowerShell script on your existing project directory to generate the `output.txt` file containing your filtered codebase structure and content.
+1.  **Prepare Codebase:** Run the provided [PowerShell script](https://github.com/TechNomadCode/Git-Source-Code-Consolidator) on your existing project directory to generate the `output.txt` file containing your filtered codebase structure and content.
 2.  **Prepare New Vision:** Have your ideas for the *new* design, desired mood, and any visual references ready.
 3.  **Use the Prompt Filler:** Start a session with a capable LLM using the `v0.dev-visual-generation-prompt-filler.md` template (the version supporting codebase analysis).
 4.  **Attach Blank Template:** Provide the *blank* `v0.dev-visual-generation-prompt.md` file as Attachment 1.
