@@ -1,4 +1,4 @@
-# Nomad's AI Prompt Library 🧠
+# Nomad's AI Prompt Library 🧠 [PromptQuick.ai](https://promptquick.ai)
 
 Welcome to my personal collection of AI prompt templates and useful prompts! This repository serves as a central place to store, organize, and share effective prompts for various AI models.
 
@@ -27,10 +27,10 @@ This approach combines the best of both worlds: AI's ability to provide structur
 
 This repository is organized into topical folders containing specialized prompts:
 
-* **PRD**: Templates for creating comprehensive Product Requirements Documents through guided questioning.
-* **MVP**: Templates for developing structured Minimum Viable Product plans that align with product vision.
+* **PRD**: Template for creating comprehensive Product Requirements Documents through guided questioning.
+* **MVP**: Template for developing structured Minimum Viable Product plans that align with product vision.
 * **Ultra-Lean-MVP**: Template focused on rapidly defining core MVP build specifications.
-* **Testing**: Templates for creating thorough test plans for software quality assurance.
+* **Testing**: Template for creating thorough test plans for software quality assurance.
 
 ⚠️ **Readme files in each folder are extremely important, do not ignore them.** ⚠️ 
 
