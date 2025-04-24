@@ -31,6 +31,7 @@ This repository is organized into topical folders containing specialized prompts
 * **MVP**: Template for developing structured Minimum Viable Product plans that align with product vision.
 * **Ultra-Lean-MVP**: Template focused on rapidly defining core MVP build specifications.
 * **Testing**: Template for creating thorough test plans for software quality assurance.
+* **v0 Design**: Templates for modern frontend designs using `v0.dev` and integrating those designs into projects, including complex design overhauls of existing codebases.
 
 ⚠️ **Readme files in each folder are extremely important, do not ignore them.** ⚠️ 
 
@@ -41,6 +42,8 @@ This repository is organized into topical folders containing specialized prompts
 [Testing](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Testing/README.md)
 
 [Ultra-lean MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Ultra-Lean-MVP/README.md)
+
+[v0-Design](https://github.com/TechNomadCode/Open-Source-Prompt-Library/blob/main/v0-Design%20(Untested)/README.md)
 
 ## How to Use
 
