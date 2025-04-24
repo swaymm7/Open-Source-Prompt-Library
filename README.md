@@ -42,6 +42,8 @@ This repository is organized into topical folders containing specialized prompts
 
 [Ultra-lean MVP](https://github.com/TechNomadCode/AI-Prompt-Library/blob/main/Ultra-Lean-MVP/README.md)
 
+[v0-Design]https://github.com/TechNomadCode/Open-Source-Prompt-Library/blob/main/v0-Design%20(Untested)/README.md
+
 ## How to Use
 
 1.  **Browse:** Navigate through the repo to find a relevant prompt (template).
