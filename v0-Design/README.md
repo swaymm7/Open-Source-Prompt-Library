@@ -22,7 +22,7 @@ These prompts enable two primary workflows: creating a design from scratch and p
 
 ## Workflows
 
-### Workflow 1: Generating a New Design From Scratch
+### Workflow: Generating a New Design From Scratch
 
 Use this when you don't have an existing frontend codebase to overhaul.
 
