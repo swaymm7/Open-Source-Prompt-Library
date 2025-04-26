@@ -17,19 +17,17 @@ These prompts enable two primary workflows: creating a design from scratch and p
     *   **Purpose:** Defines the detailed visual and structural requirements for `v0.dev`. Contains MODULES for theme, layout, color, typography, etc.
     *   **Usage:** Filled out (usually via the Prompt Filler) and then used directly as input for `v0.dev`.
 *   **`v0.dev-visual-generation-prompt-filler.md`:**
-    *   **Purpose:** Interactively guides a user to fill out the `v0.dev-visual-generation-prompt.md` template based on their ideas. Includes optional codebase analysis for overhauls.
-    *   **Usage:** Used with a general LLM. Requires the blank `v0.dev-visual-generation-prompt.md` as an attachment and user's ideas/codebase as input. Outputs the filled-in `v0.dev-visual-generation-prompt.md`.
+    *   **Purpose:** Interactively guides a user to fill out the `v0.dev-visual-generation-prompt.md` template based on their ideas.
+    *   **Usage:** Used with a general LLM. Requires the blank `v0.dev-visual-generation-prompt.md` as an attachment and user's ideas as input. Outputs the filled-in `v0.dev-visual-generation-prompt.md`.
 
 ## Workflows
 
 ### Workflow: Generating a New Design From Scratch
 
-Use this when you don't have an existing frontend codebase to overhaul.
-
 1.  **Prepare:** Have your initial design ideas, desired mood, and any visual references ready.
 2.  **Use the Prompt Filler:** Start a session with a capable LLM using the `v0.dev-visual-generation-prompt-filler.md` template.
 3.  **Attach Blank Template:** Provide the *blank* `v0.dev-visual-generation-prompt.md` file as Attachment 1.
-4.  **Provide Ideas:** Paste your initial design ideas/brain dump into Input 1 of the Prompt Filler. Indicate that no existing codebase is provided (leave Input 2 empty).
+4.  **Provide Ideas:** Paste your initial design ideas/brain dump into Input 1 of the Prompt Filler.
 5.  **Interactive Session:** Engage with the AI in the module-by-module Q&A session to define the aesthetics, layout, colors, typography, etc.
 6.  **Receive Filled Prompt:** The AI will output the fully filled-in `v0.dev-visual-generation-prompt.md`.
 7.  **Generate Design:** Copy the filled-in prompt and use it as input for `v0.dev`.
