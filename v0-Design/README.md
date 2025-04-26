@@ -9,8 +9,6 @@ This workflow utilizes three core prompt templates to manage different stages of
 1.  **Visual Generation Prompt (`v0.dev-visual-generation-prompt.md`):** A detailed, structured template defining the desired aesthetics, layout, components, and styling for a landing page. This is the template ultimately fed to `v0.dev` to generate the visual code.
 2.  **Prompt Filler (`v0.dev-visual-generation-prompt-filler.md`):** An interactive, user-centered prompt used with a general LLM. It guides the user through a Q&A process to translate their unstructured ideas (text, image references, existing code analysis) into a fully populated *Visual Generation Prompt*.
 
-These prompts enable two primary workflows: creating a design from scratch and performing a design overhaul.
-
 ## The Prompt Templates
 
 *   **`v0.dev-visual-generation-prompt.md`:**
